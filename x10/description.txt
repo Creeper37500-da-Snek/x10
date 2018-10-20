@@ -1,0 +1,24 @@
+﻿Warning:
+This mod is cheaty, broken, and should most definitely not be used in multiplayer, on any character/world you value, with other mods, or on non-quantam computers. By using this mod, you are agreeing that any instances of crashes, freezes, immense lag, player/world file corruption, lost friendships, integer overflow, or death are not my responsibility. Thank you.
+This mod is untested in multiplayer and with other mods, both because I am too lazy to try and because I can guarantee that making it compatible would be a massive waste of time.
+
+With that out of the way...
+
+Welcome to the x10 Mod, possibly the worst low-effort, game-breaking mod there is.
+
+What does it do?
+Exactly what it says on the tin.
+Everything* in the game is multiplied by ten, ranging from player health to damage to stat boosts.
+*Note: Everything isn't actually everything, it's only the stuff below.
+
+If you're able to run this mod at 60 FPS and complete a playthrough without dropping frames, you may want to consider taking up bitcoin mining.
+
+Current features:
+ - 10x as much starting health (100 => 1000)
+ - 10x as much NPC health, damage, defense, life regen, KB resist, scale, velocity, value, time left
+   -1/10 teleport time
+ - 10x as much item damage, shoot speed, crit chance, velocity, buff times, defense, life/mana healed, knockback, life regen, max stack, scale, tile boot, value, pickaxe/axe/hammer power
+   - 1/10 use time, mana cost, reuse delay, spawn time.
+
+Todo:
+ - Things that aren't just numbers, like accessory and buff effects.

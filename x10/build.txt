@@ -1,0 +1,7 @@
+author = Creeper Da Snek
+version = 1.0
+displayName = x10 Mod
+hideCode = false
+hideResources = false
+includeSource = true
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*
